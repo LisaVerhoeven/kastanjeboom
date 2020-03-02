@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kastanjeboom/static/css/main.2a2117bf.chunk.css",
+    "main.js": "/kastanjeboom/static/js/main.daf5dc80.chunk.js",
+    "main.js.map": "/kastanjeboom/static/js/main.daf5dc80.chunk.js.map",
+    "runtime-main.js": "/kastanjeboom/static/js/runtime-main.c00b1c45.js",
+    "runtime-main.js.map": "/kastanjeboom/static/js/runtime-main.c00b1c45.js.map",
+    "static/css/2.299a5230.chunk.css": "/kastanjeboom/static/css/2.299a5230.chunk.css",
+    "static/js/2.a3718dbc.chunk.js": "/kastanjeboom/static/js/2.a3718dbc.chunk.js",
+    "static/js/2.a3718dbc.chunk.js.map": "/kastanjeboom/static/js/2.a3718dbc.chunk.js.map",
+    "index.html": "/kastanjeboom/index.html",
+    "precache-manifest.9e2851148551d7e5047ddefb89812f63.js": "/kastanjeboom/precache-manifest.9e2851148551d7e5047ddefb89812f63.js",
+    "service-worker.js": "/kastanjeboom/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/kastanjeboom/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.2a2117bf.chunk.css.map": "/kastanjeboom/static/css/main.2a2117bf.chunk.css.map",
+    "static/js/2.a3718dbc.chunk.js.LICENSE.txt": "/kastanjeboom/static/js/2.a3718dbc.chunk.js.LICENSE.txt",
+    "static/media/ImageContainer.css": "/kastanjeboom/static/media/pictureoutside.25cdcfbb.jpg",
+    "static/media/woodbackground.jpg": "/kastanjeboom/static/media/woodbackground.e478ae2a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c00b1c45.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.a3718dbc.chunk.js",
+    "static/css/main.2a2117bf.chunk.css",
+    "static/js/main.daf5dc80.chunk.js"
+  ]
+}
